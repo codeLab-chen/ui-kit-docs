@@ -1,1 +1,0 @@
-import{_ as t,c as a,o as r,j as o}from"./chunks/framework.CIN7INWa.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"组件/表格.md","filePath":"组件/表格.md"}'),s={name:"组件/表格.md"};function n(c,e,p,d,l,_){return r(),a("div",null,[...e[0]||(e[0]=[o("p",null,"表格",-1)])])}const f=t(s,[["render",n]]);export{m as __pageData,f as default};
