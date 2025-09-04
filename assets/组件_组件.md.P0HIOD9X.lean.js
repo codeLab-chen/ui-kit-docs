@@ -1,1 +1,0 @@
-import{_ as t,c as a,o as r,j as o}from"./chunks/framework.D_WAshEY.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"组件/组件.md","filePath":"组件/组件.md"}'),s={name:"组件/组件.md"};function n(c,e,p,d,l,_){return r(),a("div",null,[...e[0]||(e[0]=[o("p",null,"组件",-1)])])}const f=t(s,[["render",n]]);export{m as __pageData,f as default};
