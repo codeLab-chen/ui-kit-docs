@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as n,b1 as l}from"./chunks/framework.CmipaTRg.js";const E=JSON.parse('{"title":"快速开始","description":"","frontmatter":{},"headers":[],"relativePath":"指南/快速开始.md","filePath":"指南/快速开始.md"}'),h={name:"指南/快速开始.md"};function p(t,s,k,e,r,d){return n(),a("div",null,[...s[0]||(s[0]=[l("",7)])])}const y=i(h,[["render",p]]);export{E as __pageData,y as default};

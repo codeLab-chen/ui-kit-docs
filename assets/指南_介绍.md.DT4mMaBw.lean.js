@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as l,b1 as i}from"./chunks/framework.CmipaTRg.js";const p=JSON.parse('{"title":"背景","description":"","frontmatter":{},"headers":[],"relativePath":"指南/介绍.md","filePath":"指南/介绍.md"}'),t={name:"指南/介绍.md"};function n(h,a,o,d,s,c){return l(),r("div",null,[...a[0]||(a[0]=[i("",13)])])}const m=e(t,[["render",n]]);export{p as __pageData,m as default};

@@ -1,0 +1,1 @@
+import{_ as t,c as a,o as r,j as o}from"./chunks/framework.CmipaTRg.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"工具/字典.md","filePath":"工具/字典.md"}'),s={name:"工具/字典.md"};function n(c,e,p,d,l,_){return r(),a("div",null,[...e[0]||(e[0]=[o("p",null,"字典",-1)])])}const f=t(s,[["render",n]]);export{m as __pageData,f as default};
