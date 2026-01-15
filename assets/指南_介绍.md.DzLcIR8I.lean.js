@@ -1,1 +1,0 @@
-import{_ as t,c as a,o as r,j as o}from"./chunks/framework.DVx1g9lD.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"指南/介绍.md","filePath":"指南/介绍.md"}'),s={name:"指南/介绍.md"};function n(c,e,p,d,l,_){return r(),a("div",null,[...e[0]||(e[0]=[o("p",null,"介绍",-1)])])}const f=t(s,[["render",n]]);export{m as __pageData,f as default};
